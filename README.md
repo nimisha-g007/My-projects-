@@ -37,8 +37,8 @@ This project demonstrates basic **Python programming concepts with SQL ** like f
 ✅ Billing with automatic total calculation  
 ✅ Displays product list and quantities  
 ✅ Easily find products using name or ID
-✅ Stores product and billing records securely in SQL database
 
+✅ Stores product and billing records securely in SQL database
 ✅ Simple menu-driven interface  
 ✅ Fully console-based (no external modules required)
 
