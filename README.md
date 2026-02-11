@@ -42,6 +42,8 @@ This project demonstrates basic **Python programming concepts with SQL ** like f
 ✅ Simple menu-driven interface  
 ✅ Fully console-based (no external modules required)
 
+
+
 ---
 
 ## 🧠 Concepts Used
