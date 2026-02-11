@@ -27,7 +27,7 @@ The **Grocery Billing System** allows the user to:
 - Ensure secure access through password protection
 - Structured storage of data
 
-This project demonstrates basic **Python programming concepts with SQL ** like functions, loops, dictionaries,conditional statements,Crud Operations.
+This project demonstrates basic **Python programming concepts with SQLite  ** like functions, loops, dictionaries,conditional statements,Crud Operations.
 
 ---
 
