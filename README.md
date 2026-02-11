@@ -24,9 +24,10 @@ The **Grocery Billing System** allows the user to:
 - Update or remove products  
 - Generate bills for customers  
 - Automatically calculate total amounts and taxes  
-- Ensure secure access through password protection  
+- Ensure secure access through password protection
+- Structured storage of data
 
-This project demonstrates basic **Python programming concepts** like functions, loops, dictionaries, and conditional statements.
+This project demonstrates basic **Python programming concepts with SQL ** like functions, loops, dictionaries,conditional statements,Crud Operations.
 
 ---
 
