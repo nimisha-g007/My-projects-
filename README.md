@@ -38,10 +38,9 @@ This project demonstrates basic **Python programming concepts with SQL ** like f
 ✅ Displays product list and quantities  
 ✅ Easily find products using name or ID
 ✅ Stores product and billing records securely in SQL database
-✅ Structured storage of inventory and sales data 
+
 ✅ Simple menu-driven interface  
 ✅ Fully console-based (no external modules required)
-
 
 
 ---
