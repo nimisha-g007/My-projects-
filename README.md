@@ -5,7 +5,7 @@ It is a project on grocery billing system
 ### 🎓 Student Project – B.Tech (First Year)
 
 This is a **Python-based Grocery Billing System**, created as part of my **Mini Project** for coursework.  
-A Grocery Billing System built using Python with MySQL database integration. The project automates billing operations, manages product information, calculates bills, and securely stores transaction data in a structured database.
+A Grocery Billing System built using Python with SQLite  database integration. The project automates billing operations, manages product information, calculates bills, and securely stores transaction data in a structured database.
 
 ---
 
@@ -37,7 +37,7 @@ This project demonstrates basic **Python programming concepts with SQL ** like f
 ✅ Billing with automatic total calculation  
 ✅ Displays product list and quantities  
 ✅ Easily find products using name or ID
-✅ Stores product and billing records securely in SQLdatabase
+✅ Stores product and billing records securely in SQLite database
 ✅ Simple menu-driven interface  
 ✅ Fully console-based (no external modules required)
 
